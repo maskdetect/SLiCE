@@ -25,7 +25,7 @@ echo "script_name_during_run: "${script_name_during_run}
 
 # script parameters
 home_dir=$HOME
-repo_dir="${home_dir}/SLiCE"
+repo_dir="${home_dir}/Downloads/report_template/SLiCE"
 
 # For non-cyber datasets
 data_name='amazon_s'
